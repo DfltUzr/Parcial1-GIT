@@ -2,3 +2,4 @@
 # Agregar Estructura del Proyecto
 # Agregar archivos .gitkeep
 # Agregar estructura básica a index.html
+# Agregar referencia de styles.css en index.html
