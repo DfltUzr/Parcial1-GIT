@@ -4,3 +4,4 @@
 # Agregar estructura básica a index.html
 # Agregar referencia de styles.css en index.html
 # Agregar referencia de app.js en index.html
+# Agregar archivo .gitignore en local/
